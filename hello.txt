@@ -1,6 +1,7 @@
-ihello 
+ihello 添加数字
+增加一行
 hello cyh
-asdad
+删除的行
 hello xiugai hot-fix1
 1231231231 master xiugaile
 1231231231 hot-fix1 xiugai
